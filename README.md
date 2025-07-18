@@ -27,3 +27,12 @@ analyzer.recommend_for_team('Barcelona')
 ---
 
 ### ✨ Bonus: Archivo requirements.txt
+
+pandas==1.5.3
+numpy==1.23.5
+statsmodels==0.13.5
+matplotlib==3.6.2
+seaborn==0.12.1
+scipy==1.9.3
+
+
